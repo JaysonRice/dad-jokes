@@ -1,6 +1,8 @@
 .dialog--answer {
     width: 15em;
     height: 6em;
+    border-radius: 1em;
+    border: dotted 3px rgb(93, 60, 60);
 }
 
 .dialog--button {
@@ -15,4 +17,13 @@ border-radius: .3em;
 
 .dadJoke--answer {
     margin-bottom: 1em;
+}
+
+.button--close {
+    font-family: 'Itim', cursive;
+    padding: 0.5em 3em;
+    border: none;
+    color: white;
+    background-color: rgb(255, 70, 70);
+    border-radius: .3em;
 }
