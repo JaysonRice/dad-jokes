@@ -1,0 +1,27 @@
+.dadJokeTitle {
+    text-align: center;
+    font-family: 'Berkshire Swash', cursive;
+    font-size: 5em;
+    margin-bottom: 0em;
+    color: rgb(119, 70, 255);
+    text-shadow: 3px 3px #433d5e;
+}
+
+.jokeContainer {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    text-align: center;
+    margin: 0em 1em;
+}
+
+.dadJoke {
+    flex-basis: 30%;
+    border: solid 2px rgb(119, 70, 255);
+    margin: 1em;
+    min-width: 7em;
+}
+
+.dadJoke--answer {
+    font-style: italic;
+}
