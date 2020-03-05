@@ -1,8 +1,8 @@
 @import "./jokes.css";
-
+@import "./dialog.css";
 
 .container {
-background-color: rgb(110, 9, 9);
+    background-color: rgb(110, 9, 9);
 }
 
 .dadJokeTitle {
